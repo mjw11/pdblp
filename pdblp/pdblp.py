@@ -444,7 +444,7 @@ class BCon(object):
             If the screens are organized into groups, allows users to define the name of the group that
             contains the screen. If the users use a Bloomberg sample screen, 
             they must use this parameter to specify the name of the folder in which the screen appears.
-            For example, group="Investment Banking" when importing the “Cash/Debt Ratio” screen.
+            For example, group="Investment Banking" when importing the "Cash/Debt Ratio" screen.
         language_id: string
             Allows users to override the EQS report header language 
         asof_date: datetime or None
@@ -544,7 +544,7 @@ class BCon(object):
             If the screens are organized into groups, allows users to define the name of the group that
             contains the screen. If the users use a Bloomberg sample screen, 
             they must use this parameter to specify the name of the folder in which the screen appears.
-            For example, group="Investment Banking" when importing the “Cash/Debt Ratio” screen.
+            For example, group="Investment Banking" when importing the "Cash/Debt Ratio" screen.
         language_id: string
             Allows users to override the EQS report header language 
         asof_dates: DatetimeIndex
